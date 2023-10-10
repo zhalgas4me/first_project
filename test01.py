@@ -80,6 +80,7 @@ def create_pwd():
     
 def prm_end():
     print("переходите по ссылке и смотрите первый урок www.zhalgas.kz/lesson")
+    print("see you next time!")
     quit()
 
 def main():
